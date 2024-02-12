@@ -1,5 +1,5 @@
 # imu_PGD_calibration
-An imu calibration task based on projected gradient descent(PGD)
+This project implementes an imu calibration task based on projected gradient descent(PGD) and uses the extimated rotation to generate a panorama.
 
 ## Installation
 ```
